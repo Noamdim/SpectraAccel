@@ -1,0 +1,4 @@
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/accel_slave.v -lang verilog -prj SOURCE_VER -o accel_slave.spl -module accel_slave -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w accel_slave.spl E:/adlx/C1/try2/SOURCE_VER/accel_slave.sym 
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/accel_slave.v -lang verilog -prj SOURCE_VER -o accel_slave.spl -module accel_slave -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w accel_slave.spl E:/adlx/C1/try2/SOURCE_VER/accel_slave.sym 

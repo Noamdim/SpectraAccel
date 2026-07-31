@@ -1,0 +1,12 @@
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/Accelerator_Subsystem.v -lang verilog -prj SOURCE_VER -o Accelerator_Subsystem.spl -module Accelerator_Subsystem -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w Accelerator_Subsystem.spl E:/adlx/C1/try2/SOURCE_VER/Accelerator_Subsystem.sym 
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/Accelerator_Subsystem.v -lang verilog -prj SOURCE_VER -o Accelerator_Subsystem.spl -module Accelerator_Subsystem -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w Accelerator_Subsystem.spl E:/adlx/C1/try2/SOURCE_VER/Accelerator_Subsystem.sym 
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/Accelerator_Subsystem.v -lang verilog -prj SOURCE_VER -o Accelerator_Subsystem.spl -module Accelerator_Subsystem -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w Accelerator_Subsystem.spl E:/adlx/C1/try2/SOURCE_VER/Accelerator_Subsystem.sym 
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/Accelerator_Subsystem.v -lang verilog -prj SOURCE_VER -o Accelerator_Subsystem.spl -module Accelerator_Subsystem -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w Accelerator_Subsystem.spl E:/adlx/C1/try2/SOURCE_VER/Accelerator_Subsystem.sym 
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/Accelerator_Subsystem.v -lang verilog -prj SOURCE_VER -o Accelerator_Subsystem.spl -module Accelerator_Subsystem -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w Accelerator_Subsystem.spl E:/adlx/C1/try2/SOURCE_VER/Accelerator_Subsystem.sym 
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/Accelerator_Subsystem.v -lang verilog -prj SOURCE_VER -o Accelerator_Subsystem.spl -module Accelerator_Subsystem -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w Accelerator_Subsystem.spl E:/adlx/C1/try2/SOURCE_VER/Accelerator_Subsystem.sym 

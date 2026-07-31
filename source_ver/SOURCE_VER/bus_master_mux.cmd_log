@@ -1,0 +1,4 @@
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/bus_master_mux.v -lang verilog -prj SOURCE_VER -o bus_master_mux.spl -module bus_master_mux -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 bus_master_mux.spl E:/adlx/C1/try2/SOURCE_VER/bus_master_mux.sym 
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/bus_master_mux.v -lang verilog -prj SOURCE_VER -o bus_master_mux.spl -module bus_master_mux -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w bus_master_mux.spl E:/adlx/C1/try2/SOURCE_VER/bus_master_mux.sym 

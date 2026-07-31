@@ -1,0 +1,2 @@
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/DLX_MUSER_Top_Level.v -lang verilog -prj SOURCE_VER -o DLX_Top_Level.spl -module DLX_Top_Level -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w DLX_Top_Level.spl E:/adlx/C1/try2/SOURCE_VER/DLX_Top_Level.sym 

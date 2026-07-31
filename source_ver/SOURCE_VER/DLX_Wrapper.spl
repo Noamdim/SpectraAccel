@@ -1,0 +1,25 @@
+[Inputs]
+CLK
+RESET
+ACK_N
+STEP_EN
+=DI[31:0]=
+=D_addr[4:0]=
+=wf_count[4:0]=
+=debug_accel[3:0]=
+[Outputs]
+AS_N
+WR_OUT_N
+classify_pulse
+STOP_N
+IN_INIT
+=MAO[31:0]=
+=DO[31:0]=
+=ctrl_dlx_state[4:0]=
+=MAC_STATE[1:0]=
+=D_MONITOR[31:0]=
+=LA_DATA_IN[31:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel DLX_Wrapper
+

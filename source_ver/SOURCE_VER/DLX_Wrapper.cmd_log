@@ -1,0 +1,38 @@
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.v -lang verilog -prj SOURCE_VER -o DLX_Wrapper.spl -module DLX_Wrapper -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w DLX_Wrapper.spl E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.sym 
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.v -lang verilog -prj SOURCE_VER -o DLX_Wrapper.spl -module DLX_Wrapper -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w DLX_Wrapper.spl E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.sym 
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.v -lang verilog -prj SOURCE_VER -o DLX_Wrapper.spl -module DLX_Wrapper -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w DLX_Wrapper.spl E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.sym 
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.v -lang verilog -prj SOURCE_VER -o DLX_Wrapper.spl -module DLX_Wrapper -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w DLX_Wrapper.spl E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.sym 
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.v -lang verilog -prj SOURCE_VER -o DLX_Wrapper.spl -module DLX_Wrapper -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w DLX_Wrapper.spl E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.sym 
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.v -lang verilog -prj SOURCE_VER -o DLX_Wrapper.spl -module DLX_Wrapper -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w DLX_Wrapper.spl E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.sym 
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.v -lang verilog -prj SOURCE_VER -o DLX_Wrapper.spl -module DLX_Wrapper -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w DLX_Wrapper.spl E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.sym 
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.v -lang verilog -prj SOURCE_VER -o DLX_Wrapper.spl -module DLX_Wrapper -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 DLX_Wrapper.spl E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.sym 
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.v -lang verilog -prj SOURCE_VER -o DLX_Wrapper.spl -module DLX_Wrapper -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w DLX_Wrapper.spl E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.sym 
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.v -lang verilog -prj SOURCE_VER -o DLX_Wrapper.spl -module DLX_Wrapper -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w DLX_Wrapper.spl E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.sym 
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.v -lang verilog -prj SOURCE_VER -o DLX_Wrapper.spl -module DLX_Wrapper -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w DLX_Wrapper.spl E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.sym 
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.v -lang verilog -prj SOURCE_VER -o DLX_Wrapper.spl -module DLX_Wrapper -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w DLX_Wrapper.spl E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.sym 
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.v -lang verilog -prj SOURCE_VER -o DLX_Wrapper.spl -module DLX_Wrapper -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w DLX_Wrapper.spl E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.sym 
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.v -lang verilog -prj SOURCE_VER -o DLX_Wrapper.spl -module DLX_Wrapper -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w DLX_Wrapper.spl E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.sym 
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.v -lang verilog -prj SOURCE_VER -o DLX_Wrapper.spl -module DLX_Wrapper -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w DLX_Wrapper.spl E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.sym 
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.v -lang verilog -prj SOURCE_VER -o DLX_Wrapper.spl -module DLX_Wrapper -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w DLX_Wrapper.spl E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.sym 
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.v -lang verilog -prj SOURCE_VER -o DLX_Wrapper.spl -module DLX_Wrapper -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w DLX_Wrapper.spl E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.sym 
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.v -lang verilog -prj SOURCE_VER -o DLX_Wrapper.spl -module DLX_Wrapper -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w DLX_Wrapper.spl E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.sym 
+vhdtdtfi -lib work E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.v -lang verilog -prj SOURCE_VER -o DLX_Wrapper.spl -module DLX_Wrapper -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w DLX_Wrapper.spl E:/adlx/C1/try2/SOURCE_VER/DLX_Wrapper.sym 

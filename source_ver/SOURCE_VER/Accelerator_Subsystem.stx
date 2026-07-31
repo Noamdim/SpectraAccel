@@ -1,0 +1,92 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to E:/adlx/C1/try2/SOURCE_VER/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.29 secs
+ 
+--> Parameter xsthdpdir set to E:/adlx/C1/try2/SOURCE_VER/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.29 secs
+ 
+--> Reading design: Accelerator_Subsystem.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Analyzing Verilog file "E:\adlx\C1\try2\SOURCE_VER\div_mod.v" into library work
+Parsing module <div_mod>.
+Analyzing Verilog file "E:\adlx\C1\try2\SOURCE_VER\NDVI_new.v" into library work
+Parsing module <NDVI>.
+Analyzing Verilog file "E:\adlx\C1\try2\SOURCE_VER\NDRE_new.v" into library work
+Parsing module <NDRE>.
+Analyzing Verilog file "E:\adlx\C1\try2\SOURCE_VER\ndFDI_new.v" into library work
+Parsing module <ndFDI>.
+Analyzing Verilog file "E:\adlx\C1\try2\SOURCE_VER\NDBI_new.v" into library work
+Parsing module <NDBI>.
+Analyzing Verilog file "E:\adlx\C1\try2\SOURCE_VER\MNDWI_new.v" into library work
+Parsing module <MNDWI>.
+Analyzing Verilog file "E:\adlx\C1\try2\SOURCE_VER\BSI_new.v" into library work
+Parsing module <BSI>.
+Analyzing Verilog file "E:\adlx\C1\try2\SOURCE_VER\Brightness_new.v" into library work
+Parsing module <Brightness>.
+Analyzing Verilog file "E:\adlx\C1\try2\SOURCE_VER\logical_expressions_new.v" into library work
+Parsing module <logical_expressions>.
+Analyzing Verilog file "E:\adlx\C1\try2\SOURCE_VER\IPU_new.v" into library work
+Parsing module <IPU>.
+Analyzing Verilog file "E:\adlx\C1\try2\SOURCE_VER\feature_selector_new.v" into library work
+Parsing module <feature_selector>.
+Analyzing Verilog file "E:\adlx\C1\try2\SOURCE_VER\comparator_block_new.v" into library work
+Parsing module <comparator_block>.
+Analyzing Verilog file "E:\adlx\C1\try2\SOURCE_VER\colorizer_pixel_new.v" into library work
+Parsing module <colorizer_pixel>.
+Analyzing Verilog file "E:\adlx\C1\try2\SOURCE_VER\write_fifo.v" into library work
+Parsing module <write_fifo>.
+Analyzing Verilog file "E:\adlx\C1\try2\SOURCE_VER\stream_controller.v" into library work
+Parsing module <stream_controller>.
+Analyzing Verilog file "E:\adlx\C1\try2\SOURCE_VER\SpectraAccel_new.v" into library work
+Parsing module <SpectraAccel>.
+Analyzing Verilog file "E:\adlx\C1\try2\SOURCE_VER\read_fifo.v" into library work
+Parsing module <read_fifo>.
+Analyzing Verilog file "E:\adlx\C1\try2\SOURCE_VER\accel_slave.v" into library work
+Parsing module <accel_slave>.
+Analyzing Verilog file "E:\adlx\C1\try2\SOURCE_VER\Accelerator_Subsystem.v" into library work
+Parsing module <Accelerator_Subsystem>.
+
+
+Total REAL time to Xst completion: 4.00 secs
+Total CPU time to Xst completion: 4.17 secs
+ 
+--> 
+
+Total memory usage is 4447504 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+
