@@ -1,3 +1,0 @@
-sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl Monitor_lab4_drc.vhf -w E:/adlx/C1/try2/SOURCE_VER/Monitor_lab4.sch 
-sch2sym -intstyle ise -family spartan6 -refsym Monitor_lab4 E:/adlx/C1/try2/SOURCE_VER/Monitor_lab4.sch E:/adlx/C1/try2/SOURCE_VER/Monitor_lab4.sym 
-sch2sym -intstyle ise -family spartan6 -w -refsym Monitor_lab4 E:/adlx/C1/try2/SOURCE_VER/Monitor_lab4.sch E:/adlx/C1/try2/SOURCE_VER/Monitor_lab4.sym 
