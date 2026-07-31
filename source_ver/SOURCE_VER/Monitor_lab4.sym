@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<symbol version="7" name="Monitor_lab4">
+    <symboltype>BLOCK</symboltype>
+    <timestamp>2026-7-27T8:29:4</timestamp>
+    <pin polarity="Input" x="0" y="-672" name="IN_INIT" />
+    <pin polarity="Input" x="0" y="-608" name="B(31:0)" />
+    <pin polarity="Input" x="0" y="-544" name="C(31:0)" />
+    <pin polarity="Input" x="0" y="-480" name="CLK" />
+    <pin polarity="Input" x="0" y="-416" name="RESET" />
+    <pin polarity="Input" x="0" y="-352" name="AI(9:0)" />
+    <pin polarity="Input" x="0" y="-288" name="LA_Data_in(31:0)" />
+    <pin polarity="Input" x="0" y="-224" name="STOP_N" />
+    <pin polarity="Input" x="0" y="-160" name="STEP_EN" />
+    <pin polarity="Input" x="0" y="-96" name="WR_IN_N" />
+    <pin polarity="Input" x="0" y="-32" name="CARD_SEL" />
+    <pin polarity="Output" x="496" y="-672" name="SACK_N" />
+    <pin polarity="Output" x="496" y="-352" name="SDO(31:0)" />
+    <pin polarity="Output" x="496" y="-32" name="reg_address(4:0)" />
+    <graph>
+        <attrtext style="alignment:BCENTER;fontsize:56;fontname:Arial" attrname="SymbolName" x="248" y="-712" type="symbol" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-672" type="pin IN_INIT" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-608" type="pin B(31:0)" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-544" type="pin C(31:0)" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-480" type="pin CLK" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-416" type="pin RESET" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-352" type="pin AI(9:0)" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-288" type="pin LA_Data_in(31:0)" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-224" type="pin STOP_N" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-160" type="pin STEP_EN" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-96" type="pin WR_IN_N" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-32" type="pin CARD_SEL" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="424" y="-672" type="pin SACK_N" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="424" y="-352" type="pin SDO(31:0)" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="424" y="-32" type="pin reg_address(4:0)" />
+        <rect width="368" x="64" y="-704" height="704" />
+        <line x2="0" y1="-672" y2="-672" x1="64" />
+        <rect width="64" x="0" y="-620" height="24" />
+        <line x2="0" y1="-608" y2="-608" x1="64" />
+        <rect width="64" x="0" y="-556" height="24" />
+        <line x2="0" y1="-544" y2="-544" x1="64" />
+        <line x2="0" y1="-480" y2="-480" x1="64" />
+        <line x2="0" y1="-416" y2="-416" x1="64" />
+        <rect width="64" x="0" y="-364" height="24" />
+        <line x2="0" y1="-352" y2="-352" x1="64" />
+        <rect width="64" x="0" y="-300" height="24" />
+        <line x2="0" y1="-288" y2="-288" x1="64" />
+        <line x2="0" y1="-224" y2="-224" x1="64" />
+        <line x2="0" y1="-160" y2="-160" x1="64" />
+        <line x2="0" y1="-96" y2="-96" x1="64" />
+        <line x2="0" y1="-32" y2="-32" x1="64" />
+        <line x2="496" y1="-672" y2="-672" x1="432" />
+        <rect width="64" x="432" y="-364" height="24" />
+        <line x2="496" y1="-352" y2="-352" x1="432" />
+        <rect width="64" x="432" y="-44" height="24" />
+        <line x2="496" y1="-32" y2="-32" x1="432" />
+    </graph>
+</symbol>
