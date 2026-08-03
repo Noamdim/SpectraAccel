@@ -27,7 +27,7 @@ SpectraAccel moves this classification directly into the hardware. By processing
 
 The accelerator sits on the RESA Bus alongside the DLX Master and External RAM. When the `classify` instruction (Opcode `010 000`) is fetched:
 
-1.  The DLX calculates the source and destination addresses.
+1.  The processor calculates the source and destination addresses.
 2.  A `classify_pulse` triggers the accelerator's FSM (`ST_IDLE` → `ST_READ`).
 3.  Raw 64-bit pixels (incorporating Visible, NIR, and SWIR bands) are pulled from RAM into a Read FIFO.
 4.  The IPU calculates indices (NDVI, MNDWI, NDRE, BSI, ndFDI, Brightness).
@@ -42,7 +42,7 @@ The accelerator sits on the RESA Bus alongside the DLX Master and External RAM. 
 *   **Hardware Utilization:** Highly efficient, utilizing 5,712 LUTs (equivalent to only 11-28 DSP slices).
 
 ## 👥 Authors
-*   Yoav Halevy
+*   Yoav Halevi
 *   Noam Dim
 
 *Developed at the computer laboratory of Faculty of Engineering, Tel Aviv University.*
