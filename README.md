@@ -41,7 +41,7 @@ The accelerator sits on the RESA Bus alongside the DLX Master and External RAM. 
 *   **Throughput:** 86.89 FPS.
 *   **Hardware Utilization:** Highly efficient, utilizing 5,712 LUTs (equivalent to only 11-28 DSP slices).
 
-## 👥 Authors
+## Authors
 *   Yoav Halevi
 *   Noam Dim
 
